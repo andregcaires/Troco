@@ -22,12 +22,28 @@
     </dl>
     <table class="table">
         <tr>
-            <th>Valor</th>
+            <th>Notas</th>
             <th>Quantidade</th>
         </tr>
         @foreach (var changeToReturn in Model.ChangeToReturn)
         {
-            @if (changeToReturn.Quantity != 0)
+            @if (changeToReturn.Quantity != 0 && changeToReturn.Value > 1)
+            {
+                <tr>
+                    <td>@changeToReturn.Value</td>
+                    <td>@changeToReturn.Quantity</td>
+                </tr>
+            }
+        }
+    </table>
+    <table class="table">
+        <tr>
+            <th>Moedas</th>
+            <th>Quantidade</th>
+        </tr>
+        @foreach (var changeToReturn in Model.ChangeToReturn)
+        {
+            @if (changeToReturn.Quantity != 0 && changeToReturn.Value <= 1)
             {
                 <tr>
                     <td>@changeToReturn.Value</td>
