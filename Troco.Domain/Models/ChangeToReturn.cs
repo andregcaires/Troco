@@ -1,5 +1,8 @@
 namespace Troco.Domain.Models
 {
+    /*
+     Armazena quantidade e valor das notas e moedas para troco
+     */
     public class ChangeToReturn
     {
         public int Quantity { get; set; }

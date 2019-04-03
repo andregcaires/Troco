@@ -12,3 +12,17 @@ C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Service\bin\Debug\netstandar
 C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.csproj.CopyComplete
 C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Service\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
 C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Service\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\bin\Debug\netstandard2.0\Troco.Service.deps.json
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\bin\Debug\netstandard2.0\Troco.Service.dll
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\bin\Debug\netstandard2.0\Troco.Service.pdb
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\bin\Debug\netstandard2.0\Troco.Domain.dll
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\bin\Debug\netstandard2.0\Troco.Domain.pdb
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.csprojAssemblyReference.cache
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.csproj.CoreCompileInputs.cache
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.AssemblyInfoInputs.cache
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.AssemblyInfo.cs
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.csproj.CopyComplete
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.dll
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Service\obj\Debug\netstandard2.0\Troco.Service.pdb

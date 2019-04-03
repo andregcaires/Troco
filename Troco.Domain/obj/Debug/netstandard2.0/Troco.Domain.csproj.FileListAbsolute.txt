@@ -10,3 +10,15 @@ C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Domain\obj\Debug\netstandard
 C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
 C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
 C:\AndreTrust\Andre\Treinamentos\Dotnet\Troco\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.csproj.CopyComplete
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\bin\Debug\netstandard2.0\Troco.Domain.deps.json
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\bin\Debug\netstandard2.0\Troco.Domain.dll
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\bin\Debug\netstandard2.0\Troco.Domain.pdb
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.dll
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\bin\Debug\netstandard2.0\System.ComponentModel.Annotations.xml
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.csprojAssemblyReference.cache
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.csproj.CoreCompileInputs.cache
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.AssemblyInfoInputs.cache
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.AssemblyInfo.cs
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.csproj.CopyComplete
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.dll
+C:\Andre\Treinamento\Code\TrocoDotNet\Troco.Domain\obj\Debug\netstandard2.0\Troco.Domain.pdb

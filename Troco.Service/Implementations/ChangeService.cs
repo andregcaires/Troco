@@ -5,6 +5,9 @@ using Troco.Service.Abstractions;
 
 namespace Troco.Service.Implementations
 {
+    /*
+     Serviço responsável por realizar todo o cálculo de troco
+     */
     public class ChangeService : IChangeService
     {
         private double remainingChange;

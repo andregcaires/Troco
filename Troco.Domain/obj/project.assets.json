@@ -179,23 +179,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Andre\\.nuget\\packages\\": {},
+    "C:\\Users\\andre\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\AndreTrust\\Andre\\Treinamentos\\Dotnet\\Troco\\Troco.Domain\\Troco.Domain.csproj",
+      "projectUniqueName": "c:\\Andre\\Treinamento\\Code\\TrocoDotNet\\Troco.Domain\\Troco.Domain.csproj",
       "projectName": "Troco.Domain",
-      "projectPath": "C:\\AndreTrust\\Andre\\Treinamentos\\Dotnet\\Troco\\Troco.Domain\\Troco.Domain.csproj",
-      "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\AndreTrust\\Andre\\Treinamentos\\Dotnet\\Troco\\Troco.Domain\\obj\\",
+      "projectPath": "c:\\Andre\\Treinamento\\Code\\TrocoDotNet\\Troco.Domain\\Troco.Domain.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "c:\\Andre\\Treinamento\\Code\\TrocoDotNet\\Troco.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -24,9 +24,25 @@ namespace Troco.Web.Controllers
             return View();
         }
 
+
         [HttpPost]
         public IActionResult CalculateChange(Change change)
         {
+            if(!ModelState.IsValid)
+            {
+                TempData["valuesError"] = "Informe os campos corretamente";
+                return View("Index");
+            }
+            if (change.PaidValue < change.TotalValue)
+            {
+                TempData["valuesError"] = "Valor pago menor que o valor total!";
+                return View("Index");
+            }else if(change.PaidValue == change.TotalValue)
+            {
+                TempData["valuesError"] = "Valores iguais, não há troco para retornar!";
+                return View("Index");
+            }
+
             _service.calculateChange(change);
             return View(change);
         }

@@ -1,5 +1,8 @@
 namespace Troco.Domain.Utils
 {
+    /*
+     Classe que armazena os valores das notas disponíveis
+         */
     public class CashTypes
     {
         public const double HUNDRED = 100;
@@ -12,7 +15,7 @@ namespace Troco.Domain.Utils
 
         public const double ONE = 1;
 
-        public const double FIFTY_CENTS = 0.5;
+        public const double FIFTY_CENTS = 0.50;
 
         public const double TEN_CENTS = 0.10;
 
